@@ -62,7 +62,7 @@ Estudo protocolos de rede, administração básica de sistemas e práticas de se
 <p align="center">
   <a href="https://www.linkedin.com/in/otaviano-brito/">LinkedIn</a> •
   <a href="https://github.com/OtavianoBrito">GitHub</a> •
-  <a href="https://tryhackme.com/p/Rodrigues132">TryHackMe</a>
+  <a href="https://tryhackme.com/p/Rodriguees">TryHackMe</a>
 </p>
 
 ---
